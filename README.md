@@ -25,10 +25,6 @@ to these difficult decisions.
 
 ### Topics
 
-
-
-
-
   + Overview of the Fielding Constraints
   + Modeling your problem domain
   + Hypermedia as the Expression of Application State (HATEOS)
@@ -66,35 +62,35 @@ during our workshop.
 
 ## Workshop agenda and timetable
 
-###  8:45 -  9:00 Seating and assistance with Tool installation
+  +  8:45 -  9:00 Seating and assistance with Tool installation
 
-###  9:00 -  9:05 Greetings and Introduction to the Workshop
+  +  9:00 -  9:05 Greetings and Introduction to the Workshop
 
-###  9:05 -  9:20 Why HTTP APIs are Valuable & The Core Components of an API
+  +  9:05 -  9:20 Why HTTP APIs are Valuable & The Core Components of an API
 
-###  9:20 -  9:30 Exercise 1 - Explore Aspects of a Few Popular APIs
+  +  9:20 -  9:30 Exercise 1 - Explore Aspects of a Few Popular APIs
 
-###  9:30 -  9:40 The anatomy of an API Call and Demo of Postman 
+  +  9:30 -  9:40 The anatomy of an API Call and Demo of Postman
 
-###  9:40 - 10:00 Exercise 2 - Test and Explore APIs with Postman 
+  +  9:40 - 10:00 Exercise 2 - Test and Explore APIs with Postman
 
-### 10:00 - 10:15 The Components of an HTTP API Domain
+  + 10:00 - 10:15 The Components of an HTTP API Domain
 
-### 10:15 - 10:35 Exercise 3 - Convert the Resources of your Domain into an API
+  + 10:15 - 10:35 Exercise 3 - Convert the Resources of your Domain into an API
 
-### 10:35 - 10:45 Break 
+  + 10:35 - 10:45 Break
 
-### 10:45 - 11:00 Exercise 4 - Swap APIs with an other Group for them to Review 
+  + 10:45 - 11:00 Exercise 4 - Swap APIs with an other Group for them to Review
 
-### 11:00 - 11:10 Exercies 5 - Bring Groups Together to Discuss the APIs
+  + 11:00 - 11:10 Exercies 5 - Bring Groups Together to Discuss the APIs
 
-### 11:10 - 11:15 Documentation and the Open API Specification
+  + 11:10 - 11:15 Documentation and the Open API Specification
 
-### 11:15 - 11:35 Specify, Serve and Explore your API
+  + 11:15 - 11:35 Specify, Serve and Explore your API
 
-### 11:35 - 11:45 Avoild Perfection Paralysis and Malcontents
+  + 11:35 - 11:45 Avoild Perfection Paralysis and Malcontents
 
-### 11:45 - 12:00 Wrap up, Q&A
+  + 11:45 - 12:00 Wrap up, Q&A
 
 ## Introduction to Workshop and Getting Started
 
