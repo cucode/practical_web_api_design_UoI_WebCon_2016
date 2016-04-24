@@ -1,8 +1,8 @@
-# Practical Web API Design Workshop
+# [Practical Web API Design Workshop](http://webcon.illinois.edu/sessions.shtml)
 
-University of Illinois WebCon April 27th 2016
+[University of Illinois WebCon April 27th 2016](http://webcon.illinois.edu/)
 
-Wes Cravens, Marty Kane, Aaron Lee & John McCaffrey
+Wes Cravens (@WesCravens), Marty Kane (@martinekane), Aaron Lee(@wwkeyboard) & John McCaffrey(@j_mccaffrey)
 
 ## Synopsis
 
@@ -77,9 +77,9 @@ during our workshop.
 
 ### Workshop Tools
 
-  + This repository
-  + Gitter
-  + Some command to run
+  + [This repository](https://github.com/cucode/practical_web_api_design_UoI_WebCon_2016)
+  + [Gitter](https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016)
+  + Getting Started 
 
 
 ## Workshop agenda and timetable
@@ -118,14 +118,95 @@ during our workshop.
 
 ## References
 
+
+
 ### Workshop Documentation
 
  * [Workshop Slides](https://docs.google.com/presentation/d/1vAycalIQMX1a1j6GefYy11mcRCQujM5-jEx69aczziQ/edit?usp=sharing)
 
-### Periodicals & Blogs
+### Tools, Services and Specification 
 
-### Talks & Papers
++ [Open API Initiative](https://openapis.org/)
++ [Open API Specfication fka Swagger Specification](https://github.com/OAI/OpenAPI-Specification)
++ [Other Swagger Based Tools](http://swagger.io/)
 
-### Books
++ [API Blueprint - Apiary](http://apiary.io/)
+
++ [Mashape](https://www.mashape.com/)
+
+### Talks, Papers, Periodicals & Blogs
+
++ [API Developer Weekly](http://launchany.com/subscribe/)
+A digest and review of recent publications in the API development space.
+
++ [ The API Evangelist](http://apievangelist.com/)
+
++ [Why REST is More Like Religion than Most Technologies](http://mikeschinkel.com/blog/why-rest-is-more-like-religion-than-most-technologies/)
+
++ [Heroku's API design guidelines](https://geemus.gitbooks.io/http-api-design/content/)
+
++ [The Map of A Tweet](http://www.scribd.com/doc/30146338/map-of-a-tweet)
+A colorized visualization of the JSON representation of a tweet
+
++ [REST: I don't Think it Means What You Think it Does • Stefan Tilkov](https://www.youtube.com/watch?v=pspy1H6A3FM)
+Common misconceptions on what REST means
+
++ [Design-first APIs in Practice](http://www.infoq.com/presentations/api-design-first?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_architecture-design&utm_campaign=12222015news)
+A pretty good overview of leading the design of your API from a consumer
+point of view with a particular emphasis on the Design-Thinking
+approach.
+
++ [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
+A good post on RPC vs REST, especially the follow-up comments
+
++ [On Choosing a Hypermedia format for your API](http://sookocheff.com/posts/2014-03-11-on-choosing-a-hypermedia-format/)
+
++ [The Hypermedia Debate](http://www.foxycart.com/blog/the-hypermedia-debate#.VVyQAlVVhBc)
+
++ [API Changelog](https://www.apichangelog.com/)
+
+### Books & Documentation
+
++ [IANA Media-Types](http://www.iana.org/assignments/media-types/media-types.xhtml)
+
++ [Hypermedia](http://en.wikipedia.org/wiki/Hypermedia)
+
++ [Hypertext Application Language (HAL)](http://stateless.co/hal_specification.html)
+
++ [Siren - Like HAL with relationships and HTTP query methods](https://github.com/kevinswiber/siren)
+
++ [JSON API](http://jsonapi.org)
+
++ [H-Factor](http://amundsen.com/hypermedia/hfactor/)
+
++ [Building Hypermedia APIs with HTML5 and Node Amundsen 2011](https://books.google.com/books?id=GzsT5r4XShsC)
+
++ [RESTful Web APIs - Richardson, Amundsen & Ruby 2013](https://books.google.com/books?id=ZXDGAAAAQBAJ)
+
++ [Architectural Styles and the Design of Network-based Software Architectures - Fielding 2000](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
++ [JSON Schema](http://json-schema.org/)
+
++ [JSON-LD Specification](http://www.w3.org/TR/json-ld/)
+
++ [JSON-LD Homepage](http://json-ld.org/)
+
++ [JSON-RPC Homepage](http://json-rpc.org/)
+
+### Example & Refrence APIs
+
++ [Example Siren Based API: Wurl Video Streaming Platform ](http://developers.wurl.com/pages/reference/entities/root)
+
++ [DigitalOcean API documentation](https://developers.digitalocean.com/documentation/v2/)
+Not that the API is the best, but I really like the structure of the
+documentation. It includes examples for multiple languages.
+
++ [GitHub API](https://developer.github.com/v3/)
+The GitHub API is known for its good design and usability.
+
++ [Stripe API](https://stripe.com/docs/api)
+The Stripe online payment processing API.  Introduced a new level of
+developer friendliness with the disruptive introduction of its API.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Practical Web API Design</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/cucode/practical_web_api_design_UoI_WebCon_2016" property="cc:attributionName" rel="cc:attributionURL">Wes Cravens, Marty Kane, Aaron Lee & John McCaffrey</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/cucode/practical_web_api_design_UoI_WebCon_2016" rel="dct:source">https://github.com/cucode/practical_web_api_design_UoI_WebCon_2016</a>.
