@@ -1,5 +1,7 @@
 # Practical Web API Design Workshop
 
+[![Join the chat at https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016](https://badges.gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016.svg)](https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 University of Illinois WebCon April 27th 2016
 
 Wes Cravens, Marty Kane, Aaron Lee & John McCaffrey
