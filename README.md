@@ -32,6 +32,28 @@ to these difficult decisions.
   + HTTP Verbs - The reality
   + Value flexibility and consumption over perfection. Why 'perfection' is unrealistic?
 
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Practical Web API Design Workshop](#practical-web-api-design-workshop)
+  - [Synopsis](#synopsis)
+    - [Topics](#topics)
+  - [Required Tooling](#required-tooling)
+    - [Tools](#tools)
+    - [Workshop Tools](#workshop-tools)
+  - [Workshop agenda and timetable](#workshop-agenda-and-timetable)
+  - [Introduction to Workshop and Getting Started](#introduction-to-workshop-and-getting-started)
+  - [References](#references)
+    - [Workshop Documentation](#workshop-documentation)
+    - [Periodicals & Blogs](#periodicals-&-blogs)
+    - [Talks & Papers](#talks-&-papers)
+    - [Books](#books)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Required Tooling
 
 Our workshop is designed to leverage tools that you can use online wiht
