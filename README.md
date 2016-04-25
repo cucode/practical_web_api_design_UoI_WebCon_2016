@@ -38,21 +38,18 @@ to these difficult decisions.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Practical Web API Design Workshop](#practical-web-api-design-workshop)
-  - [Synopsis](#synopsis)
-    - [Topics](#topics)
-  - [Required Tooling](#required-tooling)
-    - [Tools](#tools)
-    - [Workshop Tools](#workshop-tools)
-  - [Workshop agenda and timetable](#workshop-agenda-and-timetable)
-  - [Introduction to Workshop and Getting Started](#introduction-to-workshop-and-getting-started)
-  - [References](#references)
-    - [Workshop Documentation](#workshop-documentation)
-    - [Periodicals & Blogs](#periodicals-&-blogs)
-    - [Talks & Papers](#talks-&-papers)
-    - [Books](#books)
+- [Required Tooling](#required-tooling)
+  - [Infrastructure Tools](#infrastructure-tools)
+  - [Workshop Tools](#workshop-tools)
+- [Workshop agenda and timetable](#workshop-agenda-and-timetable)
+- [Introduction to Workshop and Getting Started](#introduction-to-workshop-and-getting-started)
+- [References](#references)
+  - [Workshop Documentation](#workshop-documentation)
+  - [Tools, Services and Specification](#tools-services-and-specification)
+  - [Talks, Papers, Periodicals & Blogs](#talks-papers-periodicals-&-blogs)
+  - [Books & Documentation](#books-&-documentation)
+  - [Example & Refrence APIs](#example-&-refrence-apis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
