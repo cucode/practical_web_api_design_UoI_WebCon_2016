@@ -68,18 +68,18 @@ Installing these items before the workshop will help us all support each
 other in the event that there are any network connection discrepancies
 during our workshop.
 
-### Tools
+### Infrastructure Tools
 
-  + Git
-  + Chrome
-  + Postman
-  + Node
+  + [Chrome](https://www.google.com/chrome/browser/desktop/index.html) Google's Browser
+  + [Git](https://git-scm.com/downloads) Very popular version control system
+  + [Node.js](https://nodejs.org/en/)
 
 ### Workshop Tools
 
   + [This repository](https://github.com/cucode/practical_web_api_design_UoI_WebCon_2016)
-  + [Gitter](https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016)
-  + Getting Started 
+  + [Postman](http://www.getpostman.com/) We'll be using the Chrome plugin version.
+  + [Gitter](https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016) We'll use this for real time chat.
+  + [Getting Started Guide]
 
 
 ## Workshop agenda and timetable
