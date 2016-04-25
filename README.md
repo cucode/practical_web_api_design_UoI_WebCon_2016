@@ -128,13 +128,14 @@ during our workshop.
 
 ### Tools, Services and Specification 
 
-+ [Open API Initiative](https://openapis.org/)
-+ [Open API Specfication fka Swagger Specification](https://github.com/OAI/OpenAPI-Specification)
-+ [Other Swagger Based Tools](http://swagger.io/)
+  + [Open API Initiative](https://openapis.org/)
+  + [Open API Specfication fka Swagger Specification](https://github.com/OAI/OpenAPI-Specification)
+  + [Other Swagger Based Tools](http://swagger.io/)
 
-+ [API Blueprint - Apiary](http://apiary.io/)
 
-+ [Mashape](https://www.mashape.com/)
+  + [API Blueprint - Apiary](http://apiary.io/)
+
+  + [Mashape](https://www.mashape.com/)
 
 ### Talks, Papers, Periodicals & Blogs
 
