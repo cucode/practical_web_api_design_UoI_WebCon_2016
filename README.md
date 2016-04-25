@@ -56,7 +56,7 @@ to these difficult decisions.
 
 ## Required Tooling
 
-Our workshop is designed to leverage tools that you can use online wiht
+Our workshop is designed to leverage tools that you can use online with
 a browser any time.  However we've all been to conferences before, so we
 know that it's wise to not be 100% reliant on a functional internet
 connection espectially if you're asking 60 people to download and
