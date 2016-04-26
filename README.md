@@ -128,13 +128,16 @@ during our workshop.
 
 ## Seating and assistance with Tool installation
 
-  + Ensure everyone is up and running
+  + Setup instructions
+  + Ensure that cohorts have the installed technologies (At least half)
+  + Raise hand if there are any problems, we'll come around
 
 ## Greetings and Introduction to the Workshop (WC)
 
   + Introduction of Workshop Speakers
   + Overview of the topics
   + It's a big topic to get into 3 hours
+  + Encourage Paired programming and group exploration
   + Getting started
 
 ## Why HTTP APIs are Valuable (JM)
@@ -166,7 +169,7 @@ during our workshop.
   + HTTP Request
   + HTTP Verbs
   + Response Codes
-  + Response Body 
+  + Response Body
 
 ### Exercise 2 - Test and Explore APIs with Postman
 
@@ -191,7 +194,7 @@ during our workshop.
   + General remarks about documenting API’s
     + Required to bridge the Semantic Gap
     + Should be easy to consume/explore
-  + API Specification can function as a contract 
+  + API Specification can function as a contract
   + Code Generation
   + Documentation Generation via Annotation
 
@@ -215,7 +218,7 @@ during our workshop.
 
  * [Workshop Slides](https://docs.google.com/presentation/d/1vAycalIQMX1a1j6GefYy11mcRCQujM5-jEx69aczziQ/edit?usp=sharing)
 
-### Tools, Services and Specification 
+### Tools, Services and Specification
 
   + [Open API Initiative](https://openapis.org/)
   + [Open API Specfication fka Swagger Specification](https://github.com/OAI/OpenAPI-Specification)
