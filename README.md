@@ -43,7 +43,20 @@ to these difficult decisions.
   - [Infrastructure Tools](#infrastructure-tools)
   - [Workshop Tools](#workshop-tools)
 - [Workshop agenda and timetable](#workshop-agenda-and-timetable)
-- [Introduction to Workshop and Getting Started](#introduction-to-workshop-and-getting-started)
+- [Seating and assistance with Tool installation](#seating-and-assistance-with-tool-installation)
+- [Greetings and Introduction to the Workshop (WC)](#greetings-and-introduction-to-the-workshop-wc)
+- [Why HTTP APIs are Valuable & The Core Components of an API (JM)](#why-http-apis-are-valuable-&-the-core-components-of-an-api-jm)
+  - [Exercise 1 - Explore Aspects of a Few Popular APIs](#exercise-1---explore-aspects-of-a-few-popular-apis)
+- [The anatomy of an API Call and Demo of Postman (JM)](#the-anatomy-of-an-api-call-and-demo-of-postman-jm)
+  - [Exercise 2 - Test and Explore APIs with Postman](#exercise-2---test-and-explore-apis-with-postman)
+- [The Components of an HTTP API Domain (JM)](#the-components-of-an-http-api-domain-jm)
+  - [Exercise 3 - Convert the Resources of your Domain into an API](#exercise-3---convert-the-resources-of-your-domain-into-an-api)
+  - [Exercise 4 - Swap APIs with an other Group for them to Review](#exercise-4---swap-apis-with-an-other-group-for-them-to-review)
+  - [Exercise 5 - Bring Groups Together to Discuss the APIs](#exercise-5---bring-groups-together-to-discuss-the-apis)
+- [Documentation and the Open API Specification (MK)](#documentation-and-the-open-api-specification-mk)
+  - [Exercise 6 - Specify, Serve and Explore your API](#exercise-6---specify-serve-and-explore-your-api)
+- [Good Design: Avoild Perfection Paralysis and Malcontents (WC)](#good-design-avoild-perfection-paralysis-and-malcontents-wc)
+- [Wrap up, Q&A](#wrap-up-q&a)
 - [References](#references)
   - [Workshop Documentation](#workshop-documentation)
   - [Tools, Services and Specification](#tools-services-and-specification)
@@ -103,17 +116,43 @@ during our workshop.
 
   + 10:45 - 11:00 Exercise 4 - Swap APIs with an other Group for them to Review
 
-  + 11:00 - 11:10 Exercies 5 - Bring Groups Together to Discuss the APIs
+  + 11:00 - 11:10 Exercise 5 - Bring Groups Together to Discuss the APIs
 
   + 11:10 - 11:15 Documentation and the Open API Specification
 
-  + 11:15 - 11:35 Specify, Serve and Explore your API
+  + 11:15 - 11:35 Exercise 6 - Specify, Serve and Explore your API
 
-  + 11:35 - 11:45 Avoild Perfection Paralysis and Malcontents
+  + 11:35 - 11:45 Good Design: Avoild Perfection Paralysis and Malcontents
 
   + 11:45 - 12:00 Wrap up, Q&A
 
-## Introduction to Workshop and Getting Started
+## Seating and assistance with Tool installation
+
+## Greetings and Introduction to the Workshop (WC)
+
+## Why HTTP APIs are Valuable & The Core Components of an API (JM)
+
+### Exercise 1 - Explore Aspects of a Few Popular APIs
+
+## The anatomy of an API Call and Demo of Postman (JM)
+
+### Exercise 2 - Test and Explore APIs with Postman
+
+## The Components of an HTTP API Domain (JM)
+
+### Exercise 3 - Convert the Resources of your Domain into an API
+
+### Exercise 4 - Swap APIs with an other Group for them to Review
+
+### Exercise 5 - Bring Groups Together to Discuss the APIs
+
+## Documentation and the Open API Specification (MK)
+
+### Exercise 6 - Specify, Serve and Explore your API
+
+## Good Design: Avoild Perfection Paralysis and Malcontents (WC)
+
+## Wrap up, Q&A
 
 ## References
 
