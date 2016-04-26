@@ -16,10 +16,10 @@
     "theme": "ace/theme/atom_dark"
   },
   "exampleFiles": [
-    "default.yaml",
-    "minimal.yaml",
+    "example.yaml",
+    "guide.yaml",
     "echo.yaml",
-    "guide.yaml"
+    "uber.yaml"
   ],
   "autocompleteExtension": {},
   "useBackendForStorage": false,

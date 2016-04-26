@@ -1,0 +1,33 @@
+---
+swagger: '2.0'
+info:
+  version: 0.0.0
+  title: My API
+paths:
+  /example:
+    get:
+      summary: summarize get
+      description: |
+        Describe get
+      responses:
+        200:
+          description: OK
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Example'
+    put:
+      summary: summarize put
+      description: |
+        Describe put
+      responses:
+        200:
+          description: OK
+definitions:
+  Example:
+    type: object
+    properties:
+      id:
+        type: string
+        description: example entity id
+
