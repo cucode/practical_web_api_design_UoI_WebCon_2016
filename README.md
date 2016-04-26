@@ -128,17 +128,57 @@ during our workshop.
 
 ## Seating and assistance with Tool installation
 
+  + Ensure everyone is up and running
+
 ## Greetings and Introduction to the Workshop (WC)
 
-## Why HTTP APIs are Valuable & The Core Components of an API (JM)
+  + Introduction of Workshop Speakers
+  + Overview of the topics
+  + It's a big topic to get into 3 hours
+  + Getting started
+
+## Why HTTP APIs are Valuable (JM)
+
+  + API Economy
+  + Expose your business information and application engine to other consumers/applications
+  + Common interface methodology to facilitate future interoperability with other systems
+  + The more ‘standard’ you are the less you must rely on ‘semantics’
+  + Standardized clients for you API (Browsers are pretty cool) API should be consumable with just a browser
+  + Sharing Information to other departments
+  + Maybe the API is your business
+  + Balancing the Costs of Building and Designing an API based on business needs
+  + Business advantages - Spreadsheet and ‘mashing up’ information.
+
+
+## The Core Components of an API (JM)
+
+  + Authentication
+  + Registration
+  + Versioning
+
 
 ### Exercise 1 - Explore Aspects of a Few Popular APIs
 
 ## The anatomy of an API Call and Demo of Postman (JM)
 
+  + Postman for Developers
+  + Postman for Non-Developers
+  + HTTP Request
+  + HTTP Verbs
+  + Response Codes
+  + Response Body 
+
 ### Exercise 2 - Test and Explore APIs with Postman
 
 ## The Components of an HTTP API Domain (JM)
+
+  + Nouns vs Verbs (Comment vs Search; Shopping Cart vs Purchase)
+  + Hierarchy / Relationships (toppings vs. pizza vs. purchases)
+  + How to “psudocode” an API
+    + GET /thing/subthing?query=thing
+    + Response code, { name : thing, name : think }
+    + Errors
+  + Quick example of fake domain
 
 ### Exercise 3 - Convert the Resources of your Domain into an API
 
@@ -148,15 +188,28 @@ during our workshop.
 
 ## Documentation and the Open API Specification (MK)
 
+  + General remarks about documenting API’s
+    + Required to bridge the Semantic Gap
+    + Should be easy to consume/explore
+  + API Specification can function as a contract 
+  + Code Generation
+  + Documentation Generation via Annotation
+
 ### Exercise 6 - Specify, Serve and Explore your API
 
 ## Good Design: Avoild Perfection Paralysis and Malcontents (WC)
 
+  + Fielding Constraints ???
+  + Richardson Maturity Model
+  + Hypermedia / Media-Types
+  + Be patient, Dealing with malcontent, Don't be dogmatic
+  + Further Reading
+
 ## Wrap up, Q&A
 
+  + Is there interest in a birds of a feather lunch or evening discussion group?
+
 ## References
-
-
 
 ### Workshop Documentation
 
