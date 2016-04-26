@@ -1,0 +1,22 @@
+{
+  "name": "practical_web_api_design_ui_webcon_2016",
+  "version": "1.0.0",
+  "description": "Documentation and code samples for the Practical Web API Design Workshop at the U of I WebCon 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server swagger-editor/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekane/practical_web_api_design_UoI_WebCon_2016.git"
+  },
+  "license": "Creative Commons Attribution 4.0 International Public License",
+  "bugs": {
+    "url": "https://github.com/mekane/practical_web_api_design_UoI_WebCon_2016/issues"
+  },
+  "homepage": "https://github.com/mekane/practical_web_api_design_UoI_WebCon_2016#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}

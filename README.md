@@ -191,12 +191,13 @@ during our workshop.
 
 ## Documentation and the Open API Specification (MK)
 
-  + General remarks about documenting API’s
+  + Goals for good API documentation
     + Required to bridge the Semantic Gap
     + Should be easy to consume/explore
-  + API Specification can function as a contract
-  + Code Generation
-  + Documentation Generation via Annotation
+    + Should be easy to maintain
+    + Should be a computer-readable contract and support code generation
+  + API Specification via the Open API Specification (swagger)
+  + Swagger tools to create and explore documentation
 
 ### Exercise 6 - Specify, Serve and Explore your API
 
