@@ -263,6 +263,8 @@ A good post on RPC vs REST, especially the follow-up comments
 
 + [API Changelog](https://www.apichangelog.com/)
 
++ [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
+
 ### Books & Documentation
 
 + [IANA Media-Types](http://www.iana.org/assignments/media-types/media-types.xhtml)
