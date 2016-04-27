@@ -86,7 +86,7 @@ during our workshop.
 
   + [Chrome](https://www.google.com/chrome/browser/desktop/index.html) Google's Browser
   + [Git](https://git-scm.com/downloads) Very popular version control system
-  + [Node.js](https://nodejs.org/en/)
+  + [Node.js](https://nodejs.org/en/) A javascript runtime environment for your computer.
 
 ### Workshop Tools
 
