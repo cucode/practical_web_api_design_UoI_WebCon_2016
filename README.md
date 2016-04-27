@@ -4,6 +4,8 @@
 
 Wes Cravens (@WesCravens), Marty Kane (@martinekane), Aaron Lee(@wwkeyboard) & John McCaffrey(@j_mccaffrey)
 
+[![Join the chat at https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016](https://badges.gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016.svg)](https://gitter.im/cucode/practical_web_api_design_UoI_WebCon_2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Synopsis
 
 Web based APIs have emerged as the defacto standard for powering our
